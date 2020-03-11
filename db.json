@@ -17,6 +17,18 @@
     "city" : "Green Bay",
     "state" : "WI",
     "zip" : "54301",
+     "businessHours" : [
+        {
+        "open" : "08:00",
+        "close" : "17:00",
+        "day" : "MON"
+        },
+        {
+        "open" : "08:00",
+        "close" : "17:00",
+        "day" : "TUE"
+        }
+   ],
     "waitTime" : 12,
     "phone" : "920-333-1212",
     "distance" : 32
