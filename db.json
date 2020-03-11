@@ -20,12 +20,12 @@
         {
         "open" : "08:00",
         "close" : "17:00",
-        "day" : "MON",
+        "day" : "MON"
         },
         {
         "open" : "08:00",
         "close" : "17:00",
-        "day" : "TUE",
+        "day" : "TUE"
         }
   ],
   "waitTime" : "12",
@@ -38,12 +38,12 @@
     ],
   "supportedSpecialties" : [
     {
-    "specialty" : "Internal Medicine",
+    "specialty" : "Internal Medicine"
     },
     {
-    "specialty" : "Urgent Care",
+    "specialty" : "Urgent Care"
     }
-    ]
+    ],
   }
   ]
 }
