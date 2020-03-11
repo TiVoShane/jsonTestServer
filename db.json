@@ -8,8 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "locations" : [
-  {
+  "locations" :{
     "id": 100,
     "name" : "Clinic 1",
     "address1" : "1234 South Road Rd",
@@ -21,5 +20,4 @@
     "phone" : "920-333-1212",
     "distance" : 4
   }
-  ]
 }
