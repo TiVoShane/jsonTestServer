@@ -16,11 +16,9 @@
     "city" : "Green Bay",
     "state" : "WI",
     "zip" : "54301",
-    
-  "waitTime" : 12,
-  "phone" : "920-333-1212",
-  "distance" : 4
-  
+    "waitTime" : 12,
+    "phone" : "920-333-1212",
+    "distance" : 4
   }
-    ]
+  ]
 }
