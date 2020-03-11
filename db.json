@@ -32,6 +32,19 @@
     "waitTime" : 12,
     "phone" : "920-333-1212",
     "distance" : 30
+     "locationTypes" : [
+    {
+    "locationType" : "UC"
+    }
+    ],
+     "supportedSpecialties" : [
+    {
+    "specialty" : "Internal Medicine"
+    },
+    {
+    "specialty" : "Urgent Care"
+    }
+    ]
   }
     ]
 }
