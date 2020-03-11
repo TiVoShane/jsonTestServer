@@ -21,7 +21,7 @@
         "open" : "08:00",
         "close" : "17:00",
         "day" : "MON",
-        }
+        },
         {
         "open" : "08:00",
         "close" : "17:00",
@@ -38,10 +38,10 @@
     ]
   "supportedSpecialties" : [
     {
-    "specialty" : "Internal Medicine"
-    }
+    "specialty" : "Internal Medicine",
+    },
     {
-    "specialty" : "Urgent Care"
+    "specialty" : "Urgent Care",
     }
     ]
   }
