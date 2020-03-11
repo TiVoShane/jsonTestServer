@@ -27,7 +27,7 @@
         "close" : "17:00",
         "day" : "TUE",
         }
-  ]
+  ],
   "waitTime" : "12",
   "phone" : "920-333-1212",
   "distance" : "3",
@@ -35,7 +35,7 @@
     {
     "lt" : "UC"
     }
-    ]
+    ],
   "supportedSpecialties" : [
     {
     "specialty" : "Internal Medicine",
