@@ -10,9 +10,10 @@
   },
   "locations" : [
   {
+    "id": 100,
     "name" : "Clinic 1",
     "address1" : "1234 South Road Rd",
-    "address2"  : "",
+    "address2" : "",
     "city" : "Green Bay",
     "state" : "WI",
     "zip" : "54301",
