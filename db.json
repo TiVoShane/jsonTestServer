@@ -39,9 +39,11 @@
     ],
      "supportedSpecialties" : [
     {
+      "id" : 0,
     "specialty" : "Internal Medicine"
     },
     {
+      "id" = 1,
     "specialty" : "Urgent Care"
     }
     ]
