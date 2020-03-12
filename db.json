@@ -43,7 +43,7 @@
     "specialty" : "Internal Medicine"
     },
     {
-      "id" = 1,
+      "id" : 1,
     "specialty" : "Urgent Care"
     }
     ]
