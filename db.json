@@ -11,8 +11,8 @@
   "locations" :[
     {
     "id": 100,
-    "name" : "Clinic 1",
-    "address1" : "1234 South Road Rd",
+    "name" : "St. Vincent Hospital",
+    "address1" : "835 S. Van Buren St",
     "address2" : "",
     "city" : "Green Bay",
     "state" : "WI",
